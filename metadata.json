@@ -1,0 +1,7 @@
+{
+  "name": "OmniConvert AI",
+  "description": "A high-performance, AI-enhanced document conversion suite supporting PDF, DOCX, Images, and more with a seamless PC and iOS experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
